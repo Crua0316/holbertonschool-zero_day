@@ -1,0 +1,8 @@
+git status
+git push
+git pull
+git branch
+git add
+git commit
+git rm
+git log --online --decorate
