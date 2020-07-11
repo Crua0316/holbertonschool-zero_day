@@ -49,8 +49,9 @@
 <td>9</td>
 <td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/100-tetris">100-tetris</a></td>
 </tr>
-<td>10</tr>
+<td>10</td>
 <td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/101-doctor">101-doctor</a></td>
+</tr>
 </tbody>
 </table>
 </article>
