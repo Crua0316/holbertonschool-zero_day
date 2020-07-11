@@ -20,7 +20,7 @@
 <tbody>
 <tr>
 <td>1</td>
-<td><a href="/gedafu/holbertonschool-zero_day/blob/master/README.md">README.md</a></td>
+<td><a href="/Crua0316/holbertonschool-zero_day/blob/master/README.md">README.md</a></td>
 <td>...</td>
 </tr>
 <tr>
@@ -50,15 +50,15 @@
 </blockquote>
 <hr>
 <p align="center">
-    </p><h2 align="center"><a id="user-content-made-by-david-arias-fuentes" class="anchor" aria-hidden="true" href="#made-by-david-arias-fuentes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Made by, Cristian Esteban Rua Giraldo</h2>
+    </p><h2 align="center"><a id="user-content-made-by-david-arias-fuentes" class="anchor" aria-hidden="true" href="#made-by-cristian-esteban-rua-giraldo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Made by, Cristian Esteban Rua Giraldo</h2>
       <p align="center">
         <a href="https://https://twitter.com/CrissGame" rel="nofollow">
             <img alt="twitter_page" src="https://github.com/gedafu/readme-template/raw/master/images/twitter.png" height="50" width="50" style="max-width:100%;">
         </a>
-        <a href="https://www.linkedin.com/in/david-arias-fuentes-5b50951b0/" rel="nofollow">
+        <a href="https://www.linkedin.com/in/cristian-rua-691a641ab/" rel="nofollow">
             <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/raw/master/images/linkedin.png" height="50" width="50" style="max-width:100%;">
         </a>
-        <a href="https://medium.com/@gedafu2005" rel="nofollow">
+        <a href="https://medium.com/@cresrugi" rel="nofollow">
             <img alt="medium_page" src="https://github.com/gedafu/readme-template/raw/master/images/medium.png" height="50" width="50" style="max-width:100%;">
         </a>
       </p>
@@ -70,6 +70,6 @@
 <b>Holberton School - Colombia<b><br>
 </b></b></p><b><b>
 <p align="center">
-<b>June, 2020.<b>
+<b>July, 2020.<b>
 </b></b></p><b><b>
 </b></b></b></b></article>
