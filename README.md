@@ -34,27 +34,27 @@
 <tbody>
 <tr>
 <td>1</td>
-<td><a href="/Crua0316/holbertonschool-zero_day/blob/master/README.md">README.md</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/README.md">README.md</a></td>
 <td>Readme.</td>
 </tr>
 <tr>
 <td>2</td>
-<td><a href="/Crua0316/holbertonschool-zero_day/tree/master/0x00-vagrant">0x01-vagrant</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/tree/master/0x00-vagrant">0x01-vagrant</a></td>
 <td>In this project a virtualized development environment was installed and configured, it was carried out using the Github, VirtualBox and Vagrant tools.</td>
 </tr>
 <tr>
 <td>2</td>
-<td><a href="/Crua0316/holbertonschool-zero_day/tree/master/0x01-emacs">0x01-emacs</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/tree/master/0x01-emacs">0x01-emacs</a></td>
 <td>In this project the EMACS text editor was installed and its basic commands were revised.</td>
 </tr>
 <tr>
 <td>3</td>
-<td><a href="/Crua0316/holbertonschool-zero_day/tree/master/0x02-vi">0x02-vi</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/tree/master/0x02-vi">0x02-vi</a></td>
 <td>In this project the basic commands of the text editor VI were revised.</td>
 </tr>
 <tr>
 <td>4</td>
-<td><a href="/Crua0316/holbertonschool-zero_day/tree/master/0x03-git">0x03-git</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/tree/master/0x03-git">0x03-git</a></td>
 <td>In this project I work with the Github version control tool and its main commands.</td>
 </tr>
 </tbody>
