@@ -47,8 +47,9 @@
 <td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/6-quitting">6-quitting</a></td>
 </tr>
 <td>9</td>
-<td>10<a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/100-tetris">100-tetris</a></td>
+<td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/100-tetris">100-tetris</a></td>
 </tr>
+<td>10</tr>
 <td><a href="https://github.com/Crua0316/holbertonschool-zero_day/blob/master/0x01-emacs/101-doctor">101-doctor</a></td>
 </tr>
 </tbody>
